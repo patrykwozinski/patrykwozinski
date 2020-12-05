@@ -2,7 +2,7 @@
 
 ##### I'm a software engineer working in Warsaw, Poland.
 
-##### I'M WORKING ON...
+##### NOW
 
 - 🚘 Automotive applications [AutomotiveCloud](https://github.com/AutomotiveCloud)
 - ✍️ Writing about technology [patryk.it](https://patryk.it)
