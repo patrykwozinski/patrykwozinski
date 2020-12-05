@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Patryk 👋
 
-###### How to reach me:
-[<sup>|> Blog patryk.it</sup>](https://patryk.it)
-[<sup>|> LinkedIn</sup>](https://www.linkedin.com/in/patrykwozinski/)
-[<sup>|> dev.to</sup>](dev.to/patryk)
+### How to reach me:
+- [Blog patryk.it](https://patryk.it)
+- [LinkedIn](https://www.linkedin.com/in/patrykwozinski/)
+- [dev.to](dev.to/patryk)
 
 <!--
 **patrykwozinski/patrykwozinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
