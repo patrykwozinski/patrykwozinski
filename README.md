@@ -11,7 +11,7 @@
 ##### 👨‍💻 BIO
 
 - 👨‍💻 I'm currently working at **[zenloop](https://zenloop.com/en)** as Elixir engineer
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.php`, `.ex`, `.go`
 - 🌱 Learning about **Software Engineering**
 - 💬 Ping me about **domain driven design**, **object-oriented programming**, **software architecture**
 
