@@ -1,21 +1,22 @@
 ### Hi, I'm Patryk 👋
 
-##### How to reach me:
-- [Blog patryk.it](https://patryk.it)
-- [LinkedIn](https://www.linkedin.com/in/patrykwozinski/)
-- [dev.to](dev.to/patryk)
+##### I'm a software engineer working in Warsaw, Poland.
 
-<!--
-**patrykwozinski/patrykwozinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I'M WORKING ON...
 
-Here are some ideas to get you started:
+- 🚘 Automotive applications [AutomotiveCloud](https://github.com/AutomotiveCloud)
+- ✍️ Writing about technology [patryk.it](https://patryk.it)
+- 🗣 Discuss with others [dev.to](https://dev.to/patryk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 👨‍💻 BIO
+
+- 👨‍💻 I'm currently working at **[zenloop](https://zenloop.com/en)** as Elixir engineer
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌱 Learning about **Software Engineering**
+- 💬 Ping me about **domain driven design**, **object-oriented programming**, **software architecture**
+
+##### 📬 GET IN TOUCH
+
+- E-mail: [patryk.wozinski at gmail.com](patryk.wozinski@gmail.com)
+- LinkedIn: [in/patrykwozinski](https://www.linkedin.com/in/patrykwozinski/)
+- Twitter: [twitter.com](https://twitter.com/patrykwozinski)
