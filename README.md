@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🚘 Automotive applications [AutomotiveCloud](https://github.com/AutomotiveCloud)
+- 🚘 Development automotive applications [AutomotiveCloud](https://github.com/AutomotiveCloud)
 - ✍️ Writing about technology [patryk.it](https://patryk.it)
 - 🗣 Discuss with others [dev.to](https://dev.to/patryk)
 
