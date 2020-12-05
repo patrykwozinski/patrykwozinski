@@ -8,7 +8,7 @@
 - ✍️ Writing about technology [patryk.it](https://patryk.it)
 - 🗣 Discuss with others [dev.to](https://dev.to/patryk)
 
-##### 👨‍💻 BIO
+##### ABOUT
 
 - 👨‍💻 I'm currently working at **[zenloop](https://zenloop.com/en)** as Elixir engineer
 - ⚙️ I use daily: `.php`, `.ex`, `.go`
