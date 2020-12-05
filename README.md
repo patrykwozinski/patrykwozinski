@@ -13,7 +13,7 @@
 - 👨‍💻 I'm currently working at **[zenloop](https://zenloop.com/en)** as Elixir engineer
 - ⚙️ I use daily: `.php`, `.ex`, `.go`
 - 🌱 Learning about **software engineering** and **functional programming**
-- 💬 Ping me about **domain driven design**, **object-oriented programming**, **software architecture**
+- 💬 Ask me about **domain driven design**, **object-oriented programming**, **software architecture**
 
 ##### GET IN TOUCH
 
