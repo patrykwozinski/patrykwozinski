@@ -15,7 +15,7 @@
 - 🌱 Learning about **Software Engineering**
 - 💬 Ping me about **domain driven design**, **object-oriented programming**, **software architecture**
 
-##### 📬 GET IN TOUCH
+##### GET IN TOUCH
 
 - E-mail: [patryk.wozinski at gmail.com](patryk.wozinski@gmail.com)
 - LinkedIn: [in/patrykwozinski](https://www.linkedin.com/in/patrykwozinski/)
