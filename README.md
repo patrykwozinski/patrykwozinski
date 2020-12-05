@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 ###### How to reach me:
+
 |> [Blog patryk.it](https://patryk.it)
+
 |> [LinkedIn](https://www.linkedin.com/in/patrykwozinski/)
+
 |> [dev.to](dev.to/patryk)
 
 <!--
