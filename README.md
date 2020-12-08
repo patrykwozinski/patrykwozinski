@@ -1,6 +1,6 @@
 ### Hi, I'm Patryk 👋
 
-##### I'm a software engineer working in Warsaw, Poland.
+##### I'm a software engineer working and living in Warsaw, Poland.
 
 ##### 🏎 NOW
 
