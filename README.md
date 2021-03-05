@@ -10,8 +10,8 @@
 
 ##### 👨‍💻 ABOUT
 
-- I'm currently working at **[zenloop](https://zenloop.com/en)** as Elixir engineer
-- I use daily: `.php`, `.ex`, `.go`
+- I'm currently working at **[Fresha](https://fresha.engineering/)** as Backend Engineer
+- I use daily: `.php`, `.ex`, `.go`, `.rb`
 - Learning about **software engineering** and **functional programming**
 - Ask me about **domain driven design**, **object-oriented programming** or **software architecture**
 
