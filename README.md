@@ -11,7 +11,7 @@
 ##### 👨‍💻 ABOUT
 
 - I'm currently working at **[Fresha](https://fresha.engineering/)** as Backend Engineer
-- I use daily: `.php`, `.ex`, `.go`, `.rb`
+- I use daily: `.ex`, `.php`, `.go`, `.rb`
 - Learning about **software engineering** and **functional programming**
 - Ask me about **domain driven design**, **object-oriented programming** or **software architecture**
 
