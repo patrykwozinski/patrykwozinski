@@ -4,7 +4,7 @@
 
 ##### 🏎 NOW
 
-- Creating automotive applications |> **AutomotiveCloud** |> [🚘](https://github.com/AutomotiveCloud)
+- Creating automotive applications |> **Renthelp** |> [🚘](https://github.com/renthelp)
 - Writing about the technology |> **patryk.it** |> [✍️](https://patryk.it)
 - Discuss with others |> **dev.to** |> [⚙️](https://dev.to/patryk)
 
