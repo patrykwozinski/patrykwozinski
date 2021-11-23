@@ -21,4 +21,4 @@
 - LinkedIn: [in/patrykwozinski](https://www.linkedin.com/in/patrykwozinski/)
 - Twitter: [twitter.com](https://twitter.com/patrykwozinski)
 
-[![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrykwozinski&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrykwozinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
