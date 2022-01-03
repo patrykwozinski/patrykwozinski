@@ -10,7 +10,7 @@
 
 ##### 👨‍💻 ABOUT
 
-- I'm currently working at **[Fresha](https://fresha.engineering/)** as Backend Engineer
+- I'm currently working at **[Docplanner](https://docplanner.tech/)**
 - I use daily: `.ex`, `.php`, `.go`, `.rb`
 - Learning about **software engineering** and **functional programming**
 - Ask me about **domain driven design**, **object-oriented programming** or **software architecture**
