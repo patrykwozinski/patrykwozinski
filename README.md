@@ -21,4 +21,7 @@
 - LinkedIn: [in/patrykwozinski](https://www.linkedin.com/in/patrykwozinski/)
 - Twitter: [twitter.com](https://twitter.com/patrykwozinski)
 
-![Patryk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrykwozinski&hide=css,html&layout=compact)
+### 📕 My Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
