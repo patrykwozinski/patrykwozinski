@@ -21,7 +21,7 @@
 - LinkedIn: [in/patrykwozinski](https://www.linkedin.com/in/patrykwozinski/)
 - Twitter: [twitter.com](https://twitter.com/patrykwozinski)
 
-### 📕 My Latest Blog Posts
+##### 📕 LATEST BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
