@@ -24,4 +24,14 @@
 ##### 📕 LATEST BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Essentialism and Software Engineering](https://patryk.it/essentializm-and-software-engineering/)
+- [Less cognitive load when working with git and pull requests](https://patryk.it/developer-experience-and-working-with-git-and-pull-requests/)
+- [Everything is about filter, map and reduce](https://patryk.it/everything-is-about-filter-map-reduce/)
+- [The importance of code editors](https://patryk.it/the-importance-of-code-editors/)
+- [My first week as an Elixir Engineer](https://patryk.it/my-first-week-as-an-elixir-engineer/)
+- [Resources to learn Elixir for PHP developers](https://patryk.it/resources-to-learn-elixir-for-php-developers/)
+- [From PHP to Elixir |&gt; beginning](https://patryk.it/from-php-to-elixir-beginning/)
+- [Symfony Messenger component for CQRS applications](https://patryk.it/symfony-messenger-component-for-cqrs-applications/)
+- [Don’t give up! 🙌 A short history of raising errors](https://patryk.it/short-history-of-raising-errors/)
+- [Three simple testing tricks using PHP and Symfony](https://patryk.it/three-simple-testing-tricks-using-php-and-symfony/)
 <!-- BLOG-POST-LIST:END -->
