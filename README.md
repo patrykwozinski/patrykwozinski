@@ -5,7 +5,6 @@
 ##### 🏎 NOW
 
 - Creating automotive applications |> **Renthelp** |> [🚘](https://github.com/renthelp)
-- Writing about the technology |> **patryk.it** |> [✍️](https://patryk.it)
 - Discuss with others |> **dev.to** |> [⚙️](https://dev.to/patryk)
 
 ##### 👨‍💻 ABOUT
@@ -24,14 +23,8 @@
 ##### 📕 LATEST BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with databases at a scale](https://patryk.it/working-with-databases-at-a-scale/)
-- [Essentialism and Software Engineering](https://patryk.it/essentializm-and-software-engineering/)
-- [Less cognitive load when working with git and pull requests](https://patryk.it/developer-experience-and-working-with-git-and-pull-requests/)
-- [Everything is about filter, map and reduce](https://patryk.it/everything-is-about-filter-map-reduce/)
-- [The importance of code editors](https://patryk.it/the-importance-of-code-editors/)
-- [My first week as an Elixir Engineer](https://patryk.it/my-first-week-as-an-elixir-engineer/)
-- [Resources to learn Elixir for PHP developers](https://patryk.it/resources-to-learn-elixir-for-php-developers/)
-- [From PHP to Elixir |&gt; beginning](https://patryk.it/from-php-to-elixir-beginning/)
-- [Symfony Messenger component for CQRS applications](https://patryk.it/symfony-messenger-component-for-cqrs-applications/)
-- [Don’t give up! 🙌 A short history of raising errors](https://patryk.it/short-history-of-raising-errors/)
+- [Working with databases at a scale](https://medium.com/docplanner-tech/working-with-databases-at-a-scale-549b1d6f42e4)
+- [Essentialism and Software Engineering](https://medium.com/@patrykwozinski/essentialism-and-software-engineering-e924e72c601d)
+- [Less cognitive load when working with git and pull requests](https://medium.com/@patrykwozinski/less-cognitive-load-when-working-with-git-and-pull-requests-359a729a9659)
+- [Everything is about filter, map and reduce](https://medium.com/from-php-to-elixir/everything-is-about-filter-map-and-reduce-d39047daaa47)
 <!-- BLOG-POST-LIST:END -->
